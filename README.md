@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 [//]: # (- 💬 Ask me about ..)
 [//]: # ( - 📫 How to reach me: ...)
 [//]: # (- 😄 Pronouns: ...)-->
-- ⚡ Fun fact: I dont aim  to be the best , but i train in beast mode to be dangerous and if you call me a genius then its a plus 
+- ⚡ Fun fact: I dont aim  to be the perfect , but I train in Beast mode to be Dangerous and if you call me a genius  then it's a plus 
