@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 [//]: # ( - 📫 How to reach me: ...)
 [//]: # (- 😄 Pronouns: ...)-->
 - ⚡ Fun fact: I dont aim  to be the perfect , but I train in Beast mode to be Dangerous and if you call me a genius  then it's a plus 
-- <p align="center"> <img src=https://github.com/LikemDzokoto/LikemDzokoto/blob/main/source.gif /> </p>
+- <p align="center" height="150%"> <img src=https://github.com/LikemDzokoto/LikemDzokoto/blob/main/source.gif /> </p>
