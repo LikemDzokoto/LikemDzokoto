@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 [//]: # (- 💬 Ask me about ..)
 [//]: # ( - 📫 How to reach me: ...)
 [//]: # (- 😄 Pronouns: ...)-->
-- ⚡ Fun fact:  Still searching for the day I can close all the tabs in my head 😅
+- ⚡ Fun fact:  Still searching for the day I can finally close all the tabs in my head 😅
 - <p align="center" height="320px"> <img src=https://github.com/LikemDzokoto/LikemDzokoto/blob/main/source.gif /> </p>
