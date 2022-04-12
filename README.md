@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 [//]: # - 🔭 I’m currently working on ...-->
 - 🌱 I’m currently a Blockchain ,Backend developer and a Machine Learning Enthusiast 
-- 👯 I’m looking to collaborate on any Blockchain or Backend project
+[//]: # (- 👯 I’m looking to collaborate on any Blockchain or Backend project
 [//]: # (- 🤔 I’m looking for help with ...)
 [//]: # (- 💬 Ask me about ..)
 [//]: # ( - 📫 How to reach me: ...)
