@@ -1,4 +1,4 @@
-## Hello, world! 
+## Hello, world!  👋
 <!--[//]: # - 🔭 I’m currently working on ...-->
 
   I'm currently a Blockchain and Backend Developer and a Machine Learning Enthusiast✨
