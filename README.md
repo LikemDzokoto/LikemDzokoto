@@ -1,7 +1,7 @@
 ## Hello, world!  👋
 <!--[//]: # - 🔭 I’m currently working on ...-->
 
-  I'm currently a Blockchain and Backend Developer and a Machine Learning Enthusiast✨
+  I'm currently a Blockchain and Backend Developer with keen interest in Machine Learning✨
 
    I’m looking to collaborate on any Blockchain or Backend project.
 
