@@ -11,7 +11,7 @@
  
   - <p align="center" height="500%"> <img src=https://github.com/LikemDzokoto/LikemDzokoto/blob/main/source.gif /> </p>
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=LikemDzokoto&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  
   [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LikemDzokoto&langs_count=5&theme=tokyonight)]()
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LikemDzokoto&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
