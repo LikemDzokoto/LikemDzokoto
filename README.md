@@ -1,9 +1,9 @@
 ## Hello, world!  👋
 <!--[//]: # - 🔭 I’m currently working on ...-->
 
-  I'm currently a Blockchain and Backend Developer with keen interest in Machine Learning✨
+  ####I'm currently a Blockchain and Backend Developer with keen interest in Machine Learning✨
 
-   I’m looking to collaborate on any Blockchain or Backend project.
+   ####I’m looking to collaborate on any Blockchain or Backend project.
 
 
 - ⚡ Fun fact: <blockquote> Still searching for the day I can close all the tabs running in my head 😅.
