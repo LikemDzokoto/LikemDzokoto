@@ -11,11 +11,10 @@
  
   - <p align="center" height="500%"> <img src=https://github.com/LikemDzokoto/LikemDzokoto/blob/main/source.gif /> </p>
  
-  <div align="center">  
+    
   [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LikemDzokoto&langs_count=5&theme=tokyonight)]()
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LikemDzokoto&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-    </div>
-
+    
   
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LikemDzokoto&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
