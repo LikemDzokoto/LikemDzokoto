@@ -14,7 +14,4 @@
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LikemDzokoto&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
- <p align="center">
-  <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/me.gif" width=400 height=340>
-  <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/new.gif" height=340/>
-</p>
+ 
