@@ -1,9 +1,7 @@
 ## Hello, world! I'm Likem  👋
 <!--[//]: # - 🔭 I’m currently working on ...-->
 
-  ##### .  I'm currently a Blockchain and Backend Developer with keen interest in Machine Learning✨
-
-  ##### .  I’m looking to collaborate on any Blockchain or Backend project.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=B3A6A1CD&background=FFFFFF1F&lines=Hello+World+!+I'm+Likem;+I'm++a+Blockchain+Developer;and+Backend+Developer;I'm+interested+in+Machine+Learning%E2%9C%A8;+I%E2%80%99m+looking+to+collaborate+on+any+Blockchain+or+Backend+project)](https://git.io/typing-svg)
 
 
 - ⚡ Fun fact: <blockquote> Still searching for the day I can close all the tabs running in my head 😅.
@@ -13,6 +11,8 @@
  
     
   [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LikemDzokoto&langs_count=5&theme=tokyonight)]()
+  
+  
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LikemDzokoto&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
     
   
