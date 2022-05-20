@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=tokyonight&size=35&center=true&vCenter=true&width=1000&lines=HELLO+THERE!;+I'm+Likem+and+18;+I'm++a+Blockchain+and+Backend+Developer;I'm+obsessed+about+writing+Clean+Code;I'm+interested+in+Machine+Learning%E2%9C%A8;I'm+looking+to+collaborate+on+any;Blockchain;or;Backend+project)](https://git.io/typing-svg)
 
 
-- ⚡ Fun fact: <blockquote> Still searching for the day I can close all the tabs running in my head 😅.
+- ⚡ Fun fact: <blockquote> Still searching for the day I can close all the tabs running in my head 😅.</blockquote>
 - <p> align="center" height="500%"> <img src=https://github.com/LikemDzokoto/LikemDzokoto/blob/main/source.gif /> </p>
  
     
