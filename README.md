@@ -2,7 +2,7 @@
 
 
 - ⚡ Fun fact: <blockquote> Still searching for the day I can close all the tabs running in my head 😅.
- - <p align="center" height="500%"> <img src=https://github.com/LikemDzokoto/LikemDzokoto/blob/main/source.gif /> </p>
+- <p> align="center" height="500%"> <img src=https://github.com/LikemDzokoto/LikemDzokoto/blob/main/source.gif /> </p>
  
     
   [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LikemDzokoto&langs_count=5&theme=tokyonight)]()
