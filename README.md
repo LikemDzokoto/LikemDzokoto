@@ -4,12 +4,12 @@
 - ⚡ Fun fact: <blockquote> Still searching for the day I can close all the tabs running in my head 😅.</blockquote>
 - <p align="center" height="500%"> <img src=https://github.com/LikemDzokoto/LikemDzokoto/blob/main/source.gif /> </p>
  
- <p align="left">
+ 
   [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LikemDzokoto&langs_count=5&theme=tokyonight)]()
- </p>
- <p align="right">
+
+
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LikemDzokoto&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-  </p>
+
     
   
   
